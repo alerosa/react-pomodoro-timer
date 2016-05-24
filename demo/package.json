@@ -1,0 +1,11 @@
+{
+  "name": "react-pomodoro-timer-demo",
+  "version": "0.1.0",
+  "description": "Example of Pomodoro Timer usage",
+  "author": "Alessandro Rosa",
+  "private": true,
+  "dependencies": {
+    "react-document-title": "^2.0.1",
+    "react-notification-system": "^0.2.7"
+  }
+}
