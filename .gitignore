@@ -39,4 +39,4 @@ jspm_packages
 # OS files
 .DS_STORE
 
-build
+/build
