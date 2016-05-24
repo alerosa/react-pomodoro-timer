@@ -7,6 +7,10 @@ React Pomodoro Timer is a React component based on the famous [Pomodoro Techniqu
 
 It is provided with a set of UI components based on [material-ui](http://www.material-ui.com), but it's possible to use it standalone if you want to create your own interface from scratch.
 
+## Demo
+
+[Demo](http://alerosa.github.io/react-pomodoro-timer/)
+
 ## Usage
 
 ### Simple example
