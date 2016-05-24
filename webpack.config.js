@@ -1,10 +1,11 @@
 module.exports = {
+  context: __dirname,
   entry: [
-    './index.js'
+    './app.js'
   ],
   output: {
     path: __dirname,
-    filename: './build/index.js'
+    filename: './build/app.js'
   },
   module: {
     loaders: [{

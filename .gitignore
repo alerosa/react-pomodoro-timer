@@ -35,8 +35,3 @@ jspm_packages
 # Sass cache
 .sass-cache/
 *.css.map
-
-# OS files
-.DS_STORE
-
-/build
